@@ -1,0 +1,14 @@
+{
+    "extentions": [
+        {
+            "name": "invokeBefore",
+            "path": "./lib/ext:invokeBefore",
+            "desc": "The extention will be invoke before the fact function invoked."
+        },
+        {
+            "name": "invokeAfter",
+            "path": "./lib/ext:invokeAfter",
+            "desc": "The extention will be invoke after the fact function invoked."
+        }
+    ]
+}
