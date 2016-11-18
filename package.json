@@ -2,10 +2,10 @@
     "name": "toybricks",
     "optionalDependencies": {},
     "scripts": {},
-    "version": "1.1.10",
+    "version": "1.1.11",
     "description": "The javascript annotation and DI(dependency injectioin) framework",
     "dependencies": {
-        "at-js": ">=1.2.7"
+        "at-js": ">=1.2.8"
     },
     "devDependencies": {},
     "directories": {},
